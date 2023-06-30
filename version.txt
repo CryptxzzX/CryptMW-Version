@@ -1,1 +1,1 @@
-Crypt MW v1.0.0.7
+Crypt MW v1.0.0.8
